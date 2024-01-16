@@ -1,0 +1,5 @@
+sourcetree
+
+//para hacer pull
+primer fetch y luego pull
+fijar bien las ramas
